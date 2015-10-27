@@ -1,0 +1,20 @@
+---
+description: LoginAlready have a merchant account?   POS Solutions Equipment Services Support About Harbortouch Contact Harbortouch Echo™ POS System Harbortouch Echo POS com
+author: []
+datePublished: '2015-10-27T18:36:56.089Z'
+publisher:
+  domain: www.harbortouch.com
+  name: harbortouch.com
+title: ''
+dateModified: '2015-10-27T18:36:25.334Z'
+sourcePath: _posts/2015-10-27-loginalready-have-a-merchant-account-pos-solutions-equipm.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: loginalready-have-a-merchant-account-pos-solutions-equipm/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+LoginAlready have a merchant account? POS Solutions Equipment Services Support About Harbortouch Contact Harbortouch Echo(tm) POS System Harbortouch Echo POS combines the power and functionality of a traditional POS system with the simplicity and sleek design of a tablet. Built-for-purpose hardware with lifetime equipment warrantyHighly customizable, feature-rich softwareCloud-based reporting and POS managementCutting-edge payment technology supports NFC, EMV and Apple Pay(tm)Comprehensive training and 24/7 support Intuitive and Robust Software Get started quickly with our simple set-up wizard Customizable, easy-to-use software with features for both restaurant and retail businesses Module-based software allows you to hide features you don't need so you can maintain a simple interface Full remote update capability ensures that you will always have the latest features and functionality Built-for-Purpose Hardware All-aluminum construction 13.3" touch-screen display Super-fast flash storage Dual-hinged stand for flexible adjustment Integrated customer display 180° rotation allows customers to sign on screen Innovative technology: Apple Pay(tm) compatible Customers pay conveniently and securely from their phone using Apple Pay technology. Cloud-based reporting and POS management Harbortouch's cloud-based Lighthouse(tm) platform allows you to remotely run reports, manage labor, or update your system. Hybrid cloud Hybrid cloud technology provides the benefits of the cloud such as real-time reporting and redundant back-up while maintaining the advantages of a local system including faster speed and the ability to operate if internet goes down. Request A Demo Today! BUSINESS NAME: EMAIL: CITY: N/A NUMBER OF BUSINESS LOCATIONS: OWNER/CONTACT NAME: PHONE: Choose an option STATE: Request a Demo By submitting this contact form, you agree that you have read and understand the privacy policy. ﻿ Follow us POS Solutions POS Comparison Elite POS Hospitality Retail QSR & Delivery C-Store Spirits Build a System Echo POS Equipment POS Systems Harbortouch ECR Harbortouch Terminals Harbortouch Wireless HarborPay Services Harbortouch Payments Harbortouch Online Harbortouch Gift & Loyalty Harbortouch Check Services Harbortouch Cash Advance Harbortouch ATM Auth.Net e-Commerce Support Harbortouch Support Order Process Harbortouch About Us Harbortouch News Testimonials Contact Us Request a Demo Harbortouch Blog Careers Harbortouch Harbortouch Payments, LLC - A Leading National Supplier of Point of Sale Systems 2202 North Irving Street Allentown, PA 18109 Toll-Free: 800-201-0461 (c) 1999 - 2015 Harbortouch Payments, LLC| Privacy Policy: Your Privacy Rights | Merchant Processing Terms & Conditions Harbortouch(r) is a registered trademark of Harbortouch Payments, LLC. All Rights Reserved Harbortouch Payments, LLC is a registered ISO/MSP of First National Bank of Omaha, 1620 Dodge St., Omaha, NE. Cash Advance Loans are not offered by First National Bank of Omaha \*All free equipment programs require a Merchant Transaction Processing Agreement. Additionally, the free POS program requires Harbortouch POS System Service Agreement. See Processing Agreement and Service Agreement terms and conditions for complete details. \*Shipping charges apply. Equipment malfunction must be as a result of normal usage. Harbortouch Merchant Account must be in good standing to qualify. See Service Agreement terms and conditions for complete details.
