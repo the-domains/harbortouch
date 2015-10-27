@@ -1,12 +1,12 @@
 ---
 description: "Intuitive and Robust Software  Get started quickly with our simple set-up wizard Customizable, easy-to-use software with features for both restaurant\x03 and retai"
 author: []
-datePublished: '2015-10-27T18:44:27.542Z'
+datePublished: '2015-10-27T18:48:39.757Z'
 publisher:
   domain: www.harbortouch.com
   name: harbortouch.com
 title: ''
-dateModified: '2015-10-27T18:43:41.129Z'
+dateModified: '2015-10-27T18:47:43.896Z'
 sourcePath: _posts/2015-10-27-intuitive-and-robust-software-get-started-quickly-with-our.md
 published: true
 inFeed: true
