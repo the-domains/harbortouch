@@ -1,0 +1,23 @@
+name: Harbortouch
+favicon: null
+layout_spectrum: 0.19096175697632134
+typography_spectrum: 0.3308736563194543
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3317289096303284
+  lightness: 0.26372354151681066
+  saturation: 0.058094690553843975
+  rhythmicContrast: 0.207457595737651
+purpose: []
