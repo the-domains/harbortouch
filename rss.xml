@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Harbortouch]]></title>
         <description><![CDATA[Harbortouch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harbortouch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 18:48:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 18:48:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harbortouch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Intuitive and Robust Software  Get started quickly with our simple set-up wizard Customizable, easy-to-use software with features for both restaurant and retail businesses Module-based software allows you to hide features you don’t need so you can maintain a simple interface Full remote update capability ensures that you will always have the latest features and functionality</p>]]></description>
+            <link>https://thegrid.ai/harbortouch/intuitive-and-robust-software-get-started-quickly-with-our/index.html</link>
+            <guid isPermaLink="false">8c11d237-6f85-4c51-8528-47594a01e59c</guid>
+            <pubDate>Tue, 27 Oct 2015 18:48:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Harbortouch Echo POS combines the power and functionality of a traditional POS system with the simplicity and sleek design of a tablet.</p>]]></description>
-            <link>undefinedharbortouch-echo-pos-combines-the-power-and-functionality-of/index.html</link>
+            <link>https://thegrid.ai/harbortouch/harbortouch-echo-pos-combines-the-power-and-functionality-of/index.html</link>
             <guid isPermaLink="false">ef64e5c3-2b0b-4037-bb64-317fa706c29a</guid>
             <pubDate>Tue, 27 Oct 2015 18:48:39 GMT</pubDate>
         </item>
