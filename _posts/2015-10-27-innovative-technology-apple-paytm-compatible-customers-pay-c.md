@@ -1,12 +1,12 @@
 ---
 description: 'Innovative technology: Apple Pay™ compatible Customers pay conveniently and securely from their phone using Apple Pay technology. Cloud-based reporting and POS '
 author: []
-datePublished: '2015-10-27T18:44:27.573Z'
+datePublished: '2015-10-27T18:48:39.817Z'
 publisher:
   domain: www.harbortouch.com
   name: harbortouch.com
 title: ''
-dateModified: '2015-10-27T18:43:52.758Z'
+dateModified: '2015-10-27T18:47:56.726Z'
 sourcePath: _posts/2015-10-27-innovative-technology-apple-paytm-compatible-customers-pay-c.md
 published: true
 inFeed: true
