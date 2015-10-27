@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Harbortouch]]></title>
         <description><![CDATA[Harbortouch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harbortouch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 18:40:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 18:40:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harbortouch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Harbortouch Echo POS combines the power and functionality of a traditional POS system with the simplicity and sleek design of a tablet.</p>]]></description>
+            <link>https://thegrid.ai/harbortouch/harbortouch-echo-pos-combines-the-power-and-functionality-of/index.html</link>
+            <guid isPermaLink="false">ccd834e5-7222-432c-8d48-1352c971f4d7</guid>
+            <pubDate>Tue, 27 Oct 2015 18:40:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.harbortouch.com/wp-content/themes/harbortouch/images/bg/pos-solutions-echo-main.png">]]></description>
-            <link>undefined4bfaa85e-fae9-4593-b6cf-839ea215c80f/index.html</link>
+            <link>https://thegrid.ai/harbortouch/4bfaa85e-fae9-4593-b6cf-839ea215c80f/index.html</link>
             <guid isPermaLink="false">4bfaa85e-fae9-4593-b6cf-839ea215c80f</guid>
             <pubDate>Tue, 27 Oct 2015 18:40:15 GMT</pubDate>
         </item>
