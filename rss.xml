@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Harbortouch]]></title>
+        <description><![CDATA[Harbortouch]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 18:48:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Harbortouch Echo POS combines the power and functionality of a traditional POS system with the simplicity and sleek design of a tablet.</p>]]></description>
+            <link>undefinedharbortouch-echo-pos-combines-the-power-and-functionality-of/index.html</link>
+            <guid isPermaLink="false">ef64e5c3-2b0b-4037-bb64-317fa706c29a</guid>
+            <pubDate>Tue, 27 Oct 2015 18:48:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
