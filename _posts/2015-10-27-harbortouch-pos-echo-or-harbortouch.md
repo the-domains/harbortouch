@@ -29,8 +29,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.harbortouch.com/pos-solutions/harbortouch-pos-echo/'
 title: 'Harbortouch POS Echo | Harbortouch'
-datePublished: '2015-10-27T18:44:27.446Z'
-dateModified: '2015-10-27T18:44:01.597Z'
+datePublished: '2015-10-27T18:44:27.635Z'
+dateModified: '2015-10-27T18:43:59.723Z'
 sourcePath: _posts/2015-10-27-harbortouch-pos-echo-or-harbortouch.md
 published: true
 inFeed: true
