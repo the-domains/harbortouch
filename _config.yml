@@ -1,20 +1,4 @@
-name: Harbortouch
-favicon: null
-layout_spectrum: 0.24772
 typography_spectrum: 0.66601
-title: Harbortouch Echo
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24772
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Harbortouch
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Harbortouch
 purpose: []
